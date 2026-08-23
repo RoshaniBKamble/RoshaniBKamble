@@ -3,8 +3,16 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E14,50:14100A,100:0A0E14&height=230&section=header&text=ROSHANI%20KAMBLE&fontSize=54&fontColor=FFB000&fontAlignY=38&desc=Frontend%20%26%20Full%20Stack%20Developer%20%7C%20Blockchain%2FWeb3%20%7C%20AI%2FML&descAlignY=58&descSize=18&descColor=2DD4BF&animation=twinkling" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=FFB000&center=true&vCenter=true&width=650&lines=%24+whoami;M.Sc.+Blockchain+Technology+Student+%40+MIT-WPU;Building+with+React%2C+FastAPI%2C+Solidity+%26+Python;Frontend+%2B+Full+Stack+%2B+Web3+%2B+AI%2FML;Open+to+Software+Development+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=900&color=FFB000&center=true&vCenter=true&width=650&height=50&lines=Frontend+Developer;Full+Stack+Developer;Blockchain+%2F+Web3+Developer;AI%2FML+Enthusiast" alt="Typing SVG" />
 </a>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=650&lines=M.Sc.+Blockchain+Technology+Student+%40+MIT-WPU" alt="Subtitle" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB000,50:2DD4BF,100:FFB000&height=3&section=header" width="60%"/>
 
 <br/>
 
@@ -29,7 +37,6 @@
 <img src="https://komarev.com/ghpvc/?username=RoshaniBKamble&label=Profile%20Views&color=FFB000&style=for-the-badge&labelColor=0A0E14"/>
 <img src="https://img.shields.io/github/followers/RoshaniBKamble?label=Followers&style=for-the-badge&labelColor=0A0E14&color=2DD4BF"/>
 <img src="https://img.shields.io/github/stars/RoshaniBKamble?label=Stars&style=for-the-badge&labelColor=0A0E14&color=FFB000"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/RoshaniBKamble&label=Public%20Repos&query=public_repos&style=for-the-badge&labelColor=0A0E14&color=2DD4BF"/>
 
 </div>
 
@@ -101,6 +108,12 @@ OPEN_TO:  Frontend / Full Stack / Web3 / Blockchain / AI-ML Internships
 | AI/ML & NLP (RAG, LLMs, RoBERTa, OCR) | Hands-on | Applied in Nyay AI, VeriTrust AI, and AI Resume Analyzer |
 | Computer Vision | Working knowledge | Applied in Smart Gallery project |
 | Database Development (PostgreSQL, MySQL, MongoDB) | Working knowledge | Used across full-stack and AI project backends |
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14100A,50:FFB000,100:14100A&height=3&section=header" width="60%"/>
+</div>
 
 <br/>
 
@@ -223,6 +236,12 @@ open_to:
   - Web3 / Blockchain Developer Intern
   - AI/ML Internships
 ```
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14100A,50:2DD4BF,100:14100A&height=3&section=header" width="60%"/>
+</div>
 
 <br/>
 
