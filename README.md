@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Degree-M.Sc.%20Blockchain%20Technology-0A0E14?style=for-the-badge&labelColor=0A0E14&color=FFB000&logoColor=white"/>
+<img src="https://img.shields.io/badge/Degree-M.Sc.%20Blockchain%20Technology-0A0E14?style=for-the-badge&labelColor=0A0E14&color=FFB000"/>
 <img src="https://img.shields.io/badge/University-MIT--WPU%2C%20Pune-0A0E14?style=for-the-badge&labelColor=0A0E14&color=2DD4BF"/>
 <img src="https://img.shields.io/badge/Location-Pune%2C%20India-0A0E14?style=for-the-badge&labelColor=0A0E14&color=FFB000"/>
 
@@ -29,6 +29,7 @@
 <img src="https://komarev.com/ghpvc/?username=RoshaniBKamble&label=Profile%20Views&color=FFB000&style=for-the-badge&labelColor=0A0E14"/>
 <img src="https://img.shields.io/github/followers/RoshaniBKamble?label=Followers&style=for-the-badge&labelColor=0A0E14&color=2DD4BF"/>
 <img src="https://img.shields.io/github/stars/RoshaniBKamble?label=Stars&style=for-the-badge&labelColor=0A0E14&color=FFB000"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/RoshaniBKamble&label=Public%20Repos&query=public_repos&style=for-the-badge&labelColor=0A0E14&color=2DD4BF"/>
 
 </div>
 
@@ -36,10 +37,10 @@
 
 ## `>_` whoami
 
-M.Sc. Blockchain Technology candidate at MIT World Peace University with hands-on experience across **Frontend Development, Full Stack Development, Blockchain/Web3, and AI/ML**. I build responsive web applications and AI-powered systems, with practical exposure to Solidity, Ethereum, smart contracts, decentralized identity, NLP, LLMs, RAG, and computer vision. Currently focused on strengthening real-world software development skills and open to internship opportunities in Bangalore/Bengaluru.
+M.Sc. Blockchain Technology candidate at MIT-WPU with hands-on experience across frontend development, full-stack development, blockchain/Web3, and AI/ML. Interested in building practical software products that combine strong user interfaces, backend systems, intelligent applications, and decentralized technologies.
 
 ```yaml
-ROLE:     Frontend & Full Stack Developer | Blockchain/Web3 Developer | AI/ML
+ROLE:     Frontend & Full Stack Developer | Blockchain/Web3 | AI/ML
 EXP:      Early-career / Student Developer
 DOMAIN:   Web3, Full Stack Engineering, AI/ML Applications
 STACK:    React.js, TypeScript, Python, FastAPI, Solidity, LLMs
@@ -50,15 +51,15 @@ OPEN_TO:  Frontend / Full Stack / Web3 / Blockchain / AI-ML Internships
 
 ## `>_` tech-stack
 
-**Frontend / UI**
+**Frontend**
 <br/>
 <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind&theme=dark"/>
 
-**Web / Full Stack**
+**Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,nodejs,php,laravel&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,nodejs&theme=dark"/>
 
-**Blockchain / Web3**
+**Blockchain**
 <br/>
 <img src="https://skillicons.dev/icons?i=solidity,ethereum,hardhat&theme=dark"/>
 
@@ -80,6 +81,8 @@ OPEN_TO:  Frontend / Full Stack / Web3 / Blockchain / AI-ML Internships
 ![AI/ML](https://img.shields.io/badge/AI%2FML-0A0E14?style=flat-square&color=2DD4BF)
 ![NLP](https://img.shields.io/badge/NLP-0A0E14?style=flat-square&color=FFB000)
 ![LLMs](https://img.shields.io/badge/LLMs-0A0E14?style=flat-square&color=2DD4BF)
+![RAG](https://img.shields.io/badge/RAG-0A0E14?style=flat-square&color=FFB000)
+![OCR](https://img.shields.io/badge/OCR-0A0E14?style=flat-square&color=2DD4BF)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0A0E14?style=flat-square&color=FFB000)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-0A0E14?style=flat-square&color=2DD4BF)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-0A0E14?style=flat-square&color=FFB000)
@@ -96,36 +99,38 @@ OPEN_TO:  Frontend / Full Stack / Web3 / Blockchain / AI-ML Internships
 | Full Stack Development (FastAPI, Django, Flask) | Strong | Backend APIs, auth workflows, database-driven apps |
 | Blockchain / Web3 (Solidity, Ethereum, EVM) | Hands-on | Trainee role + academic focus in M.Sc. Blockchain Technology |
 | AI/ML & NLP (RAG, LLMs, RoBERTa, OCR) | Hands-on | Applied in Nyay AI, VeriTrust AI, and AI Resume Analyzer |
-| Computer Vision / Face Recognition | Working | Applied in Smart Gallery project |
-| Database Design (PostgreSQL, MySQL, MongoDB) | Working | Used across full-stack and AI project backends |
+| Computer Vision | Working knowledge | Applied in Smart Gallery project |
+| Database Development (PostgreSQL, MySQL, MongoDB) | Working knowledge | Used across full-stack and AI project backends |
 
 <br/>
 
 ## `>_` projects
 
 <details>
-<summary><b>🔷 VeriTrust AI Framework — Trust Intelligence Platform</b></summary>
+<summary><b>🔷 VeriTrust AI Framework — Trust Intelligence Platform</b> <code>🚧 Under Development</code></summary>
 <br/>
 
 **Domain:** AI / Blockchain / Full Stack
+**Status:** Under development — not yet completed, not deployed, not uploaded as a repository
 
-A modular Trust Intelligence Platform designed for high-risk document analysis and decision support, beginning with insurance policies and architected for future expansion to other document domains.
+A Trust Intelligence Platform designed for insurance-policy document analysis and decision support, combining AI-driven document understanding with blockchain-based verification.
 
-**What it does:** Designed workflow spans authentication and document upload through OCR, AI-based document understanding, explainable AI, clause analysis, a Risk Score, a Trust Index, recommendations, blockchain verification, an immutable audit trail, and dashboard analytics.
+**Designed workflow:** Upload Insurance Policy → Validate Uploaded Document → OCR Text Extraction → Document Processing → AI Policy Analysis → Policy Clause Analysis → Coverage Analysis → Exclusion Detection → Risk Analysis → Personalized Recommendations → SHA-256 Document Hash → Solidity Smart Contract → Polygon Blockchain → IPFS CID → Dashboard / Verification.
 
-**My contribution:** Architected a model-agnostic AI layer (OCR, LangChain, RAG, Gemini/Ollama) alongside a dedicated blockchain trust layer for document integrity verification. Designed the blockchain verification approach around SHA-256 document hashing, timestamps, and verification metadata — intentionally avoiding storing complete documents on-chain.
+**My contribution:** Designing the AI document-understanding layer (OCR, LangChain, Ollama) alongside a blockchain verification layer that hashes documents with SHA-256, records verification via a Solidity smart contract on Polygon, and references content through an IPFS CID — rather than storing complete documents on-chain.
 
-> *Note: this project reflects the designed architecture and workflow as scoped; it is not presented as a production-deployed system.*
+> *Note: this is a designed architecture/project currently in progress, not a production-deployed system. No claims of live deployment, real users, accuracy, or performance metrics.*
 
-**Stack:** React · TypeScript · Tailwind CSS · FastAPI · Python · PostgreSQL · FAISS · OCR · LangChain · RAG · Gemini/Ollama · Solidity · Hardhat · Ethereum Sepolia · JWT · RBAC · Docker
+**Stack:** React.js · FastAPI · Python · OCR · Ollama · LangChain · Solidity · Polygon · IPFS
 
 </details>
 
 <details>
-<summary><b>🔷 Nyay AI — AI Legal Assistant for Indian Law</b></summary>
+<summary><b>🔷 Nyay AI — AI Legal Assistant for Indian Law</b> <code>🚧 Under Development</code></summary>
 <br/>
 
 **Domain:** AI / LLM / NLP
+**Status:** Under development — not yet completed, not deployed, not uploaded as a repository
 
 An AI legal-assistance application for answering questions related to Indian law through conversational interaction.
 
@@ -138,10 +143,11 @@ An AI legal-assistance application for answering questions related to Indian law
 </details>
 
 <details>
-<summary><b>🔷 AI Resume Analyzer — Intelligent Resume–Job Matching</b></summary>
+<summary><b>🔷 AI Resume Analyzer — Intelligent Resume–Job Matching</b> <code>🚧 Under Development</code></summary>
 <br/>
 
 **Domain:** AI / NLP / Machine Learning
+**Status:** Under development — not yet completed, not deployed, not uploaded as a repository
 
 An AI-based system that analyzes resumes against job descriptions to surface matching and missing skills.
 
@@ -152,10 +158,11 @@ An AI-based system that analyzes resumes against job descriptions to surface mat
 </details>
 
 <details>
-<summary><b>🔷 Smart Gallery — AI-Based Image Organization System</b></summary>
+<summary><b>🔷 Smart Gallery — AI-Based Image Organization System</b> <code>🚧 Under Development</code></summary>
 <br/>
 
 **Domain:** AI / Computer Vision / Web
+**Status:** Under development — not yet completed, not deployed, not uploaded as a repository
 
 A web application that automatically identifies and groups images containing the same person using face-recognition technology.
 
@@ -197,73 +204,25 @@ A web application that automatically identifies and groups images containing the
 
 ```yaml
 learning:
-  - Solidity & Smart Contract security
+  - Solidity & smart contract security
   - Advanced RAG and LLM application patterns
-  - Full stack development practices
+  - Full-stack development practices
 
 building:
-  - VeriTrust AI Framework (AI + Blockchain trust layer)
-  - Software engineering fundamentals across frontend, backend, and Web3
+  - VeriTrust AI Framework
+  - Frontend, backend and Web3 projects
 
 exploring:
   - Decentralized identity systems
-  - Computer vision applications
+  - AI/ML applications
+  - Computer vision
 
 open_to:
   - Frontend Developer Intern
   - Full Stack Developer Intern
   - Web3 / Blockchain Developer Intern
-  - AI/ML Intern
+  - AI/ML Internships
 ```
-
-<br/>
-
-## `>_` github-analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RoshaniBKamble&show_icons=true&hide_border=true&bg_color=0A0E14&title_color=FFB000&icon_color=2DD4BF&text_color=E6EDF3&ring_color=FFB000" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=RoshaniBKamble&hide_border=true&background=0A0E14&ring=FFB000&fire=FFB000&currStreakLabel=2DD4BF&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshaniBKamble&layout=compact&hide_border=true&bg_color=0A0E14&title_color=FFB000&text_color=E6EDF3" width="49%"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RoshaniBKamble&column=7&margin-w=8&margin-h=8&no-frame=true&no-bg=true&title_color=FFB000&icon_color=2DD4BF&text_color=E6EDF3&border_color=0A0E14"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RoshaniBKamble&bg_color=0A0E14&color=E6EDF3&line=FFB000&point=2DD4BF&area=true&area_color=FFB000&hide_border=true" width="95%"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoshaniBKamble&theme=github_dark" width="45%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RoshaniBKamble&theme=github_dark" width="45%"/>
-<br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RoshaniBKamble&theme=github_dark" width="45%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RoshaniBKamble&theme=github_dark" width="45%"/>
-<br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RoshaniBKamble&theme=github_dark&utcOffset=5.5" width="45%"/>
-
-</div>
-
-<br/>
-
-<details>
-<summary><b>Contribution Snake</b></summary>
-<br/>
-
-```md
-![snake gif](https://raw.githubusercontent.com/RoshaniBKamble/RoshaniBKamble/output/github-contribution-grid-snake-dark.svg)
-```
-
-*This renders once the [snake workflow](https://github.com/Platane/snk) is added to the `RoshaniBKamble/RoshaniBKamble` repo and runs at least once — it isn't active yet.*
-
-</details>
 
 <br/>
 
@@ -283,6 +242,6 @@ open_to:
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0A0E14,50:14100A,100:0A0E14&height=110&section=footer&text=Frontend%20%26%20Full%20Stack%20Developer%20building%20at%20the%20intersection%20of%20Web3%20and%20AI&fontSize=14&fontColor=FFB000&fontAlignY=75" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0A0E14,50:14100A,100:0A0E14&height=110&section=footer&text=Building%20practical%20software%20at%20the%20intersection%20of%20Frontend%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Web3%20%E2%80%A2%20AI&fontSize=13&fontColor=FFB000&fontAlignY=75" width="100%"/>
 
 </div>
