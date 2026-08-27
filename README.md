@@ -1,151 +1,250 @@
-```markdown
-# Hi, I'm Roshani Kamble 👋
+<div align="center">
 
-### Frontend Developer | Full Stack | Blockchain / Web3 | AI / ML
+# ROSHANI KAMBLE
 
-M.Sc. Blockchain Technology student at **MIT World Peace University, Pune**, building toward **Frontend and Full Stack Engineering** with a specialization in **Blockchain / Web3** and an additional focus on **AI/ML application development**.
+### Frontend Developer → Full Stack Engineering · Blockchain / Web3 · AI / ML
 
-I focus on building modern web applications with strong attention to **frontend development, UI/UX, React, application architecture, and practical technology solutions**.
+**M.Sc. Blockchain Technology @ MIT-WPU · Pune, Maharashtra · Targeting Bengaluru / Bangalore**
 
-📍 Pune, Maharashtra, India  
-🎯 Career Focus: Frontend Engineering • Full Stack Development • Web3 • Software Engineering • AI/ML  
-📌 Preferred Location: **Bengaluru / Bangalore**
+<br>
 
----
+<a href="https://github.com/RoshaniBKamble">
+  <img src="https://img.shields.io/badge/GitHub-RoshaniBKamble-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:roshaikamble2002@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-## 🧭 About Me
-
-- 💻 Frontend-focused developer building toward Full Stack Engineering
-- ⚛️ Strong interest in React, modern web development, and UI/UX
-- ⛓️ Specializing in Blockchain, Web3, and smart-contract based applications
-- 🤖 Exploring AI/ML application development
-- 🧩 Interested in building practical products that combine modern web technologies with emerging technologies
-- 🎓 M.Sc. Blockchain Technology at MIT-WPU
-- 📍 Preparing for internships, placements, and entry-level software engineering opportunities
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 👋 ABOUT ME
 
-| Category | Technologies |
-|---|---|
-| **Languages** | JavaScript • TypeScript • Python • Java |
-| **Frontend** | React • HTML • CSS • Tailwind CSS |
-| **Backend** | Node.js • Express.js • REST APIs |
-| **Databases** | MongoDB • MySQL |
-| **Blockchain / Web3** | Solidity • Ethereum • Smart Contracts • Web3 |
-| **AI / ML** | Python • Machine Learning • AI Application Development |
-| **Tools** | Git • GitHub • VS Code • Postman |
-| **Design** | Figma • UI/UX |
+I’m **Roshani Kamble**, a frontend-focused developer building toward **Full Stack Engineering**, with **Blockchain / Web3** as my specialization and **AI / ML application development** as an additional technical direction.
 
----
+I enjoy turning technical ideas into practical software — connecting **interfaces, application logic, intelligent systems, APIs, databases, and decentralized technologies**.
 
-## 🚀 What I Build
+I’m currently pursuing an **M.Sc. in Blockchain Technology at MIT World Peace University (MIT-WPU), Pune**, while strengthening my engineering foundation through hands-on development, academic work, technical exploration, and continuous project building.
 
-### Frontend & UI/UX
-Responsive and modern web interfaces with a focus on usability, component structure, clean design, and user experience.
+### What I’m focused on
 
-### Full Stack Applications
-Web applications connecting frontend interfaces with APIs, backend services, databases, authentication, and application logic.
-
-### Blockchain / Web3
-Decentralized applications and smart-contract based systems focused on transparency, trust, and practical blockchain use cases.
-
-### AI / ML Applications
-Applications that integrate machine learning and AI capabilities into useful product workflows and user experiences.
+- 💻 **Frontend Development** — React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
+- ⚙️ **Full Stack Engineering** — APIs, Python, FastAPI, Django, Flask, REST APIs
+- ⛓️ **Blockchain / Web3** — Solidity, Ethereum, EVM, Smart Contracts, Web3 concepts
+- 🤖 **AI / ML Applications** — NLP, LLMs, RAG, OCR, Computer Vision
+- 🎨 **UI / UX** — building clean, responsive and user-focused web experiences
+- 🧠 **Problem Solving** — transforming real-world problems into practical software solutions
 
 ---
 
-## 📂 Selected Projects
+## 🛠️ TECH STACK
 
-### 🔗 PharmaTrust
-**Blockchain-Based Pharmaceutical Authenticity & Supply Chain Verification**
+### 💻 Programming Languages
 
-A blockchain-based pharmaceutical supply-chain concept designed to provide tamper-evident product records and verification across:
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,ts,solidity,java,html,css" />
+</p>
 
-**Manufacturer → Distributor → Warehouse → Pharmacy → Patient**
+### 🎨 Frontend Development
 
-**Focus:** Blockchain • Supply Chain • Smart Contracts • Product Verification
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" />
+</p>
+
+### ⚙️ Backend & APIs
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,nodejs" />
+</p>
+
+### ⛓️ Blockchain / Web3
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=solidity,ethereum" />
+</p>
+
+**Focus:** Solidity · Ethereum · EVM · Smart Contracts · Blockchain Verification · Web3 Application Concepts · Cryptographic Hashing
+
+### 🤖 AI / ML
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
+</p>
+
+**Focus:** NLP · LLMs · RAG · OCR · Computer Vision · AI Application Development
+
+### 🗄️ Databases & Developer Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,docker,git,github,vscode" />
+</p>
 
 ---
 
-### ⛓️ Blockchain / Web3 Projects
+## 🚀 SELECTED PROJECTS
 
-Building and exploring decentralized applications involving:
+> A growing collection of practical projects across **Frontend, Full Stack, AI/ML and Blockchain/Web3**.
+>
+> Project repositories will be linked here as each project is completed, tested, documented and made public.
 
-- Smart Contracts
-- Ethereum
-- Web3 integration
-- Blockchain-based verification
-- Transparent digital systems
+### ◈ VeriTrust AI Framework
 
----
+**AI × Blockchain × Full Stack**
 
-### 💻 Full Stack Web Applications
+A modular **Trust Intelligence Platform** designed for high-risk document analysis and decision support, beginning with insurance-policy use cases and designed for future expansion into other document domains.
 
-Developing web applications that combine:
+**Core:** React · TypeScript · FastAPI · Python · PostgreSQL · OCR · RAG · LangChain · Solidity
 
-**React → APIs → Backend → Database → User Interface**
-
-with emphasis on practical application architecture and responsive user experiences.
+**Blockchain layer:** SHA-256 hashing · Smart-contract verification · Immutable audit trail
 
 ---
 
-## 🎓 Education
+### ◈ Nyay AI
+
+**LLM × NLP**
+
+An AI legal-assistance application focused on conversational interaction with **Indian-law context**.
+
+**Core:** Python · Flask · LLaMA · NLP
+
+---
+
+### ◈ AI Resume Analyzer
+
+**NLP × Machine Learning**
+
+A resume–job matching system designed around **semantic similarity** rather than relying only on traditional keyword matching.
+
+**Core:** Python · RoBERTa · NLP · Machine Learning
+
+---
+
+### ◈ Smart Gallery
+
+**Computer Vision × Web**
+
+An AI-based image organization system focused on identifying and grouping images containing the same person.
+
+**Core:** Python · Django · Face Recognition · Computer Vision
+
+---
+
+> **Project policy:** repositories will only be linked after the corresponding project is genuinely built, tested, documented and publicly available.
+
+---
+
+## 💼 EXPERIENCE
+
+### Web3 & Blockchain Development Trainee
+
+**MIT World Peace University · Pune, Maharashtra**  
+**Aug 2025 – Present**
+
+- Developed practical understanding of **blockchain architecture, decentralized identity, smart contracts and Web3 application workflows**.
+- Explored **Ethereum, Solidity, EVM concepts, DeFi, cryptographic hashing and blockchain-based verification**.
+- Worked with Web3-oriented application concepts and explored **frontend integration with decentralized technologies**.
+
+---
+
+## 🏆 ACHIEVEMENTS
+
+### 🥇 Winner — E.D.G.E. Mini Project
+
+**MIT World Peace University**
+
+Recognized as a winner in the **E.D.G.E. Mini Project** competition for developing a blockchain-based identity management solution focused on secure digital identity sharing.
+
+---
+
+## 🎓 EDUCATION
 
 ### M.Sc. Blockchain Technology
-**MIT World Peace University (MIT-WPU)**  
-Pune, Maharashtra  
-**Sep 2025 – Present**
 
-### BBA (Computer Applications)
+**MIT World Peace University (MIT-WPU), Pune, Maharashtra**  
+**Jul 2025 – Present**
+
+---
+
+### BBA — Computer Applications
+
 **Savitribai Phule Pune University**  
-**Jul 2022 – Jul 2025**  
-CGPA: **8.26 / 10**
+**Jul 2022 – Jul 2025**
 
 ---
 
-## 🎯 Career Direction
+## 📜 CERTIFICATIONS & LEARNING
 
-**Frontend Developer**  
-**Frontend Engineer**  
-**React Developer**  
-**Full Stack Developer**  
-**Software Developer / SDE**  
-**Web3 Developer**  
-**Blockchain Developer**  
-**Smart Contract Developer**  
-**Blockchain Engineer**  
-**AI/ML Developer**
+- Web Development
+- AI / ML & Data Science
+- Game Development with Unity
+- Data Analytics & GitHub
 
-**Preferred Location:** Bengaluru / Bangalore
+Currently continuing hands-on learning across:
+
+**Frontend Engineering · Full Stack Development · Blockchain / Web3 · AI / ML**
 
 ---
 
-## 📊 GitHub
+## 🎯 CURRENT DIRECTION
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoshaniBKamble&show_icons=true&hide_border=true&theme=default" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoshaniBKamble&hide_border=true&theme=default" height="165" />
-</p>
+<div align="center">
+
+### FRONTEND ENGINEERING  ·  FULL STACK DEVELOPMENT  ·  BLOCKCHAIN / WEB3  ·  AI / ML
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 💻
+**FRONTEND**
+
+React · TypeScript  
+UI/UX · Modern Web
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+**FULL STACK**
+
+Python · FastAPI  
+Django · REST APIs
+
+</td>
+
+<td align="center" width="25%">
+
+### ⛓️
+**BLOCKCHAIN**
+
+Solidity · Ethereum  
+EVM · Smart Contracts
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+**AI / ML**
+
+NLP · LLMs  
+RAG · Computer Vision
+
+</td>
+</tr>
+</table>
+
+<br>
+
+**Building practical software at the intersection of modern web engineering, decentralized technologies and intelligent applications.**
+
+📍 **Pune, Maharashtra → Bengaluru / Bangalore**
+
+</div>
 
 ---
-
-## 🤝 Let's Connect
-
-<p align="left">
-  <a href="https://github.com/RoshaniBKamble">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/roshani-kamble-3a8b7b259">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:roshanikamble2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-### `BUILD • LEARN • SHIP • IMPROVE`
-```
